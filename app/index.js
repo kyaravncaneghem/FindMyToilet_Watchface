@@ -18,7 +18,7 @@ const $steps = document.getElementById('steps');
 const $calories = document.getElementById('calories');
 
 // define vars for later use;
-let time = ''; // de v airbale waarin je uiteindelijk de tekst gaat steken //dit is effectief de tijd
+let time = ''; // de varibale waarin je uiteindelijk de tekst gaat steken //dit is effectief de tijd
 let hr = '--';
 
 // get heart rate
